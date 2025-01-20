@@ -1,0 +1,1 @@
+Quick Java tool to generate workout plans that fulfill certain criteria of a good workout plan. Exercises listed in CSV that I can do at home. Initial design is for a 3-day workout . Later iterations will feature ability for user-entered number of days. More exercises will be added as I add more equpiment to my home gym.
